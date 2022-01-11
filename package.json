@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "./lib/index.cjs",
+  "type": "module",
   "module": "./lib/index.mjs",
   "types": "./lib/index.d.ts",
   "directories": {
